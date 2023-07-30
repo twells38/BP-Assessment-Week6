@@ -108,7 +108,7 @@ app.get("/api/player", (req, res) => {
   }
 });
 
-app.listen(8000, () => {
+app.listen(4000, () => {
   console.log(`Listening on 8000`);
 });
 
